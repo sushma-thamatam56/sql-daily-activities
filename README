@@ -1,0 +1,41 @@
+# SQL Daily Activities
+
+This repository contains my daily SQL practice queries to improve my database concepts and problem-solving skills.
+
+## Topics Covered
+
+### 1. DDL Commands and Constraints
+
+- `CREATE TABLE`
+- `ALTER TABLE`
+- `DROP TABLE` and dropping constraints
+- `PRIMARY KEY`
+- `FOREIGN KEY`
+- `UNIQUE`
+- `NOT NULL`
+- `CHECK`
+- Adding, modifying, renaming, and dropping columns
+- Adding and dropping constraints using `ALTER TABLE`
+
+## Practice Files
+
+| File Name | Description |
+|---|---|
+| `sql table constraints.sql` | 20 practice questions covering DDL commands and constraints in MySQL |
+
+## Tools Used
+
+- MySQL 8.0
+- MySQL Workbench / MySQL Command Line
+- GitHub
+
+## Learning Goals
+
+- Practice SQL commands regularly.
+- Understand database constraints.
+- Improve SQL query-writing skills.
+- Build a collection of SQL practice exercises.
+
+---
+
+*This repository is part of my ongoing SQL learning journey.*
